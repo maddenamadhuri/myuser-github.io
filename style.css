@@ -65,6 +65,7 @@ body {
     font-size: clamp(2.8rem, 8.5vw, 5.5rem);
     color: #96185b;
     margin-bottom: 20px;
+    padding: 0 10px 0 10px;
     white-space: nowrap;
     overflow: hidden;
     border-right: 4px solid #96185b;
